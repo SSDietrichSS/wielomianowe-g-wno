@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "wielomianprog/1.0.0": {
+        "dependencies": {
+          "WielomianLib": "1.0.0"
+        },
+        "runtime": {
+          "wielomianprog.dll": {}
+        }
+      },
+      "WielomianLib/1.0.0": {
+        "runtime": {
+          "WielomianLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wielomianprog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WielomianLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

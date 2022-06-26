@@ -1,0 +1,12 @@
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\obj\Debug\net6.0\WielomianLib.csproj.AssemblyReference.cache
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\obj\Debug\net6.0\WielomianLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\obj\Debug\net6.0\WielomianLib.AssemblyInfoInputs.cache
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\obj\Debug\net6.0\WielomianLib.AssemblyInfo.cs
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\obj\Debug\net6.0\WielomianLib.csproj.CoreCompileInputs.cache
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\bin\Debug\net6.0\WielomianLib.deps.json
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\bin\Debug\net6.0\WielomianLib.dll
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\bin\Debug\net6.0\WielomianLib.pdb
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\obj\Debug\net6.0\WielomianLib.dll
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\obj\Debug\net6.0\refint\WielomianLib.dll
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\obj\Debug\net6.0\WielomianLib.pdb
+C:\Users\Kdj28\source\repos\wielomianprog\ClassLibrary1\obj\Debug\net6.0\ref\WielomianLib.dll
